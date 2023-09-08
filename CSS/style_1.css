@@ -1,0 +1,31 @@
+.heading h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    color: darkgrey;
+}
+
+.position {
+    color: darkgrey;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+} 
+.center img {
+    max-width: 30%;
+    border-radius: 190px;
+    
+}
