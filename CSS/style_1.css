@@ -9,7 +9,12 @@
     color: darkgrey;
 }
 
-.position {
+.heading p {
+    color: antiquewhite;
+    text-align: center;
+}
+
+.content h2{
     color: darkgrey;
     text-decoration: underline;
     text-align: center;
@@ -28,4 +33,21 @@ body {
     max-width: 30%;
     border-radius: 190px;
     
+}
+.skills h2 {
+    color: antiquewhite;
+    text-decoration: underline;
+}
+
+.skills p {
+    color: antiquewhite;
+}
+
+.content p {
+    color: antiquewhite;
+}
+
+.education {
+    color: antiquewhite;
+    text-align: right;
 }
